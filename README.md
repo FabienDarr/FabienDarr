@@ -13,6 +13,8 @@
 [<img align="left" alt="FabienDarr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="FabienDarr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="FabienDarr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="FabienDarr | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Discord.svg" />][discord]
+[<img align="left" alt="FabienDarr | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
 
 <br />
 
@@ -59,3 +61,5 @@ You can click the Preview link to take a look at your changes.
 [linkedin]: https://www.linkedin.com/in/fabien-darrigrand
 [instagram]: https://www.instagram.com/fabien.darr/
 [github]: https://github.com/FabienDarr
+[discord]: https://discord.gg/pavccsJ4dC
+[steam]: https://steamcommunity.com/id/Oxoto
