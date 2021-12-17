@@ -51,3 +51,4 @@ You can click the Preview link to take a look at your changes.
 [website]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 [twitter]: https://twitter.com/Oxoto64
 [linkedin]: https://www.linkedin.com/in/fabien-darrigrand
+[instagram]: https://www.instagram.com/fabien.darr/
