@@ -5,15 +5,19 @@
 - 👋 Hi, I’m @FabienDarr a French Student who loves development and new techonologies ! Currently in first year engineering Informatics student in CYTech, I'm learning programming since 2016
 - 👀 I’m currently working on a Portofolio and secret projet !
 - 🌌 Learning Web languages at the moment. I'm also developping an application that believe could be very very interested and used by many peoples (can't tell you for the mmoment but stay tuned !)
+- 🚀 Space and new technologies addict. Always looking at the moon. 🔭
+- 💞️ I’m looking to collaborate on any project. Feel free to ask me 
+- 📫 You can contact me by e-mail at this adress : fabiendarrigrand@hotmail.fr or by discord 
 
 ### Connect with me:
 
 [<img align="left" alt="FabienDarr | Instagram" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="FabienDarr | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="FabienDarr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="FabienDarr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="FabienDarr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="FabienDarr | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Discord.svg" />][discord]
+
 [<img align="left" alt="FabienDarr | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
 
 <br />
@@ -42,11 +46,8 @@
 <br />
 <br />
 
----
 
- •  🚀 Space and new technologies addict. Always looking at the moon. 🔭
-- 💞️ I’m looking to collaborate on any project. Feel free to ask me 
-- 📫 You can contact me by e-mail at this adress : fabiendarrigrand@hotmail.fr or by discord 
+
 ---
 
 <img align="left" alt="Fabien Darrigrand's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FabienDarr&show_icons=true&hide_border=true&theme=cobalt" />
