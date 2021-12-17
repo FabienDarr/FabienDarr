@@ -11,6 +11,7 @@
 [<img align="left" alt="FabienDarr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="FabienDarr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="FabienDarr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="FabienDarr | Instagram" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 <br />
 
 ### Languages and Tools:
@@ -46,3 +47,4 @@ You can click the Preview link to take a look at your changes.
 [twitter]: https://twitter.com/Oxoto64
 [linkedin]: https://www.linkedin.com/in/fabien-darrigrand
 [instagram]: https://www.instagram.com/fabien.darr/
+[github]: https://github.com/FabienDarr
