@@ -40,10 +40,12 @@
 <br />
 <br />
 
+---
 
  •  🚀 Space and new technologies addict. Always looking at the moon. 🔭
 - 💞️ I’m looking to collaborate on any project. Feel free to ask me 
 - 📫 You can contact me by e-mail at this adress : fabiendarrigrand@hotmail.fr or by discord 
+---
 
 <img align="left" alt="Fabien Darrigrand's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FabienDarr&show_icons=true&hide_border=true&theme=cobalt" />
 <!---
