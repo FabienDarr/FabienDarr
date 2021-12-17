@@ -7,7 +7,7 @@
 - 🌌 Learning Web languages at the moment. I'm also developping an application that believe could be very very interested and used by many peoples (can't tell you for the mmoment but stay tuned !)
 - 🚀 Space and new technologies addict. Always looking at the moon. 🔭
 - 💞️ I’m looking to collaborate on any project. Feel free to ask me 
-- 📫 You can contact me by e-mail at this adress : fabiendarrigrand@hotmail.fr or by discord 
+- 📫 You can contact me by e-mail at this adress : fabiendarrigrand@hotmail.fr or by discord [@🔥Oxoto🔥#7802][discord]
 
 ### Connect with me:
 
