@@ -11,6 +11,7 @@
 [<img align="left" alt="FabienDarr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="FabienDarr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="FabienDarr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="right" alt="FabienDarr " width="22px" src="![giphy](https://user-images.githubusercontent.com/71562075/146617082-60163df5-5398-4239-87fa-5340ef1ebe63.gif)" />]
 
 <br />
 
