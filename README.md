@@ -7,7 +7,7 @@
 - 🌌 Learning Web languages at the moment. Developping an application, stay tuned !
 - 💞️ Feel free to ask me anything
 - 📫 Contact me at any time at fabiendarrigrand@hotmail.fr                               
-or by discord [@🔥Oxoto🔥#7802][discord]
+or by Discord [@🔥Oxoto🔥#7802][discord]
 
 
 ### Connect with me:
