@@ -6,11 +6,11 @@
 - 👀 I’m currently working on a Portofolio and secret projet !
 - 🌌 Learning Web languages at the moment. Developping an application, stay tuned !
 - 💞️ Feel free to ask me anything
-- 📫 Contact me at any time at fabiendarrigrand@hotmail.fr or by discord [@🔥Oxoto🔥#7802][discord]
+- 📫 Contact me at any time at fabiendarrigrand@hotmail.fr                               
+or by discord [@🔥Oxoto🔥#7802][discord]
 
 
 ### Connect with me:
-![programmer]()
 
 [<img align="left" alt="FabienDarr | Instagram" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="FabienDarr | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
