@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Fabien - aka [FabienDarr][website]
 
 ## I'm a French Student which the only !!
-- <img align="right" alt="FabienDarr | Instagram" width="300px" src="https://user-images.githubusercontent.com/71562075/146621106-ea750826-ed03-4ced-9aed-0dce38a4c1da.gif" /> 👋 Hi, I’m @FabienDarr a French Student who loves development and new techonologies ! 
+- <img align="right" alt="FabienDarr | Instagram" width="350px" src="https://user-images.githubusercontent.com/71562075/146621106-ea750826-ed03-4ced-9aed-0dce38a4c1da.gif" /> 👋 Hi, I’m @FabienDarr a French Student who loves development and new techonologies ! 
 - 📚 Currently in first year engineering Informatics student in CYTech, I'm learning programming since 2016
 - 👀 I’m currently working on a Portofolio and secret projet !
 - 🌌 Learning Web languages at the moment. Developping an application, stay tuned !
