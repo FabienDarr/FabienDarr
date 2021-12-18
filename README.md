@@ -53,9 +53,13 @@ or by Discord [@🔥Oxoto🔥#7802][discord]<br> <br>
 <br />
 <br />
 
-<p align="center">
-<img align="center" alt="Fabien Darrigrand's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FabienDarr&show_icons=true&hide_border=true&theme=tokyonight" />
-</p>
+<p align="left">
+<img alt="Fabien Darrigrand's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FabienDarr&show_icons=true&hide_border=true&theme=tokyonight" />
+ 
+ </p>
+ <!---
+<img align="right" alt="Fabien Darrigrand's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabienDarr&layout=compact"
+--->
 <!---
 FabienDarr/FabienDarr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
