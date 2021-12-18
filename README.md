@@ -5,7 +5,7 @@
 
 - <img align="right" alt="FabienDarr" width="350px" src="https://user-images.githubusercontent.com/71562075/146622191-0bc69dd5-ce51-4c5c-a8d0-0dc1b7dd34f1.gif" />📚 Currently in first year engineering Informatics student in CYTech !
 - 👀 I’m currently working on a Portofolio and secret projet !
-- 🌌 Learning Web languages at the moment. Developping an application !
+- 🌌 Learning Web languages at the moment. Developing an application !
 - 💼 Feel free to ask me anything
 - 💬 Contact me at any time at fabiendarrigrand@hotmail.fr                               
 or by Discord [@🔥Oxoto🔥#7802][discord]<br> <br>
