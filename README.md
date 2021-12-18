@@ -3,9 +3,9 @@
 ## I'm a French Student <img width="20px" src="https://user-images.githubusercontent.com/71562075/146622063-6dc551f5-bc48-4cad-972c-7f205a4a11a4.png" /> 
 <br>
 
-- <img align="right" alt="FabienDarr" width="350px" src="https://user-images.githubusercontent.com/71562075/146622191-0bc69dd5-ce51-4c5c-a8d0-0dc1b7dd34f1.gif" />📚 Currently in first year engineering Informatics student in CYTech, I'm learning programming since 2016 
+- <img align="right" alt="FabienDarr" width="350px" src="https://user-images.githubusercontent.com/71562075/146622191-0bc69dd5-ce51-4c5c-a8d0-0dc1b7dd34f1.gif" />📚 Currently in first year engineering Informatics student in CYTech !
 - 👀 I’m currently working on a Portofolio and secret projet !
-- 🌌 Learning Web languages at the moment. Developping an application, stay tuned !
+- 🌌 Learning Web languages at the moment. Developping an application !
 - 💼 Feel free to ask me anything
 - 💬 Contact me at any time at fabiendarrigrand@hotmail.fr                               
 or by Discord [@🔥Oxoto🔥#7802][discord]<br> <br>
