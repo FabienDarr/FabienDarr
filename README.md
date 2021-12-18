@@ -62,6 +62,7 @@ or by Discord [@🔥Oxoto🔥#7802][discord]<br> <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabienDarr&layout=compact&langs_count=7&theme=dracula" />
  </div>
  
+ https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 
 <!---
