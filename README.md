@@ -24,7 +24,7 @@ or by Discord [@🔥Oxoto🔥#7802][discord]<br> <br>
 
 [<img align="left" alt="FabienDarr | Steam" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam] 
 
-## <img align="right" alt="FabienDarr" width="100px" src="https://user-images.githubusercontent.com/71562075/146653252-63e29e35-ac3f-41df-906a-3eb739205041.png"/> <br>
+## <img align="right" alt="FabienDarr" src="https://user-images.githubusercontent.com/71562075/146653252-63e29e35-ac3f-41df-906a-3eb739205041.png"/> <br>
 
 #### Languages and Tools:
 
@@ -58,13 +58,16 @@ or by Discord [@🔥Oxoto🔥#7802][discord]<br> <br>
 <br />
 <br />
 
-<p align="center">
-<img alt="Fabien Darrigrand's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FabienDarr&show_icons=true&hide_border=true&theme=tokyonight" />
+
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FabienDarr&show_icons=true&hide_border=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabienDarr&layout=compact" />
+</a>
  
- </p>
- <!---
-<img align="right" alt="Fabien Darrigrand's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabienDarr&layout=compact"
---->
+
+
 <!---
 FabienDarr/FabienDarr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
