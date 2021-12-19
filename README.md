@@ -35,9 +35,9 @@ or by Discord [@🔥Oxoto🔥#7802][discord]<br> <br>
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="C" width="35px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
-<img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" /><br>
-<img align="left" alt="PHP" width="35px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/32x32/php.png" />
-<img align="left" alt="R" width="35px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg" />
+<img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"/>
+<img align="left" alt="PHP" width="35px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/32x32/php.png"/>
+<img align="left" alt="R" width="35px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg"/>
 <img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
