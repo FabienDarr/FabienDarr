@@ -4,7 +4,7 @@
  <img align="right" alt="FabienDarr" width="350px" src="https://user-images.githubusercontent.com/71562075/146622191-0bc69dd5-ce51-4c5c-a8d0-0dc1b7dd34f1.gif" />French Student, Developing since 2016, let me tell you a bit about myself
 <br><br>
 
-- 📚 Currently in first year engineering Informatics student in CYTech !
+- 📚 Currently in first year engineering Informatics student in CYTech 
 
 - 👀 I’m currently working on a Portofolio and secret projet !
 - 🌌 Learning Web languages at the moment. Developing an application !
