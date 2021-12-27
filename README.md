@@ -1,7 +1,7 @@
 ###  Hi there, I'm Fabien - aka [FabienDarr][website] <img width="30px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" /> 
 ##
 <br>
- <img align="right" alt="FabienDarr" width="350px" src="https://user-images.githubusercontent.com/71562075/146622191-0bc69dd5-ce51-4c5c-a8d0-0dc1b7dd34f1.gif" />French Student, Developing since 2016, let me tell you a bit about myself
+ <img align="right" alt="FabienDarr" width="350px" src="https://user-images.githubusercontent.com/71562075/146622191-0bc69dd5-ce51-4c5c-a8d0-0dc1b7dd34f1.gif" />French Student, Developing since 2016, let me tell you a bit about mysel
 <br><br>
 
 - 📚 Currently in first year engineering Informatics student in CYTech !
