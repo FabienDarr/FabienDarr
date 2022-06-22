@@ -2,7 +2,7 @@
 ##
 <br>
  <img align="right" alt="FabienDarr" width="350px" src="https://user-images.githubusercontent.com/71562075/146622191-0bc69dd5-ce51-4c5c-a8d0-0dc1b7dd34f1.gif" />French Student, Developing since 2016, <br>
-Let me tell you a bit about myself 
+Let me tell you a bit about myself,
 <br><br>
 
 - 📚 Currently in first year engineering Informatics student in CYTech
