@@ -7,7 +7,7 @@
 - 📚 Currently in first year engineering Informatics student in CYTech !
 
 - 👀 I’m currently working on a Portofolio and secret projet !
-- 🌌 Learning Web languages at the moment. Developing an application !
+- 🌌 Currently in love with React ! Developing an application !
 - 💼 Feel free to ask me anything
 - 💬 Contact me at any time at fabiendarrigrand@hotmail.fr                               
 or by Discord [@🔥Oxoto🔥#7802][discord]<br> <br>
