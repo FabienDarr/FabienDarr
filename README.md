@@ -5,13 +5,13 @@
 Let me tell you a bit about myself,
 <br><br>
 
-- 📚 Currently in first year engineering Informatics student in CYTech
+- 📚 Currently in third year engineering Computer Science specialized in Cybersecurity at CYTech
 
 - 👀 I’m currently working on a Portofolio and secret projet !
-- 🌌 Currently in love with React ! Developing an application !
+- 🌌 Currently in love with Burp Suite !
 - 💼 Feel free to ask me anything
 - 💬 Contact me at any time at fabiendarrigrand@hotmail.fr                               
-or by Discord [@🔥Oxoto🔥#7802][discord]<br> <br>
+<br> <br>
 
 
 #### Connect with me
